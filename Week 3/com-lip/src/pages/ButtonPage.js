@@ -27,3 +27,4 @@ const ButtonPage = () => {
 }
 
 export default ButtonPage;
+//https://tailwindcss.com/docs/word-break
