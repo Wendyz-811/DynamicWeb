@@ -18,11 +18,7 @@ const ButtonPage = () => {
       </div>
 
       <div>
-        <Button
-          secondary
-          rounded
-          className="fixed top-0 right-0"
-        >
+        <Button secondary rounded className="fixed top-0 right-0">
           Secondary
         </Button>
       </div>
@@ -36,11 +32,7 @@ const ButtonPage = () => {
       </div>
 
       <div>
-        <Button
-          danger
-          outline
-          rounded
-        >
+        <Button danger outline rounded>
           Danger
         </Button>
       </div>

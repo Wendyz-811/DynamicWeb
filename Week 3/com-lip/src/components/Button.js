@@ -20,7 +20,7 @@ const Button = (props) =>{
         'bg-green-500 border-green-500 text-white':success,
         'bg-orange-400 border-orange-400 text-white':warning,
         'bg-red-600 border-red-600 text-white':danger,
-        //rounded
+        //rounded 
         'rounded-full':rounded, 
         //outline
         'bg-white':outline,
